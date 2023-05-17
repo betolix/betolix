@@ -1,3 +1,7 @@
+# Alberto Lazo
+
+**`Android Developer - Claims Specialist | C++, Java, Kotlin | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux, Python. Curious, creative, builder, problem solver, driven, disciplined, focused.`**
+
 - 👋 Hi, I’m @betolix
 - 👀 I’m interested in 
 - 
