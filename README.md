@@ -1,10 +1,13 @@
 # Alberto Lazo
 
-**`Android Developer - Claims Specialist | C++, Java, Kotlin | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux, Python. Curious, creative, builder, problem solver, driven, disciplined, focused.`**
+**`Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. Curious, creative, builder, problem solver, driven, disciplined, focused.`**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=betolix&show_icons=true&theme=radical" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=betolix&show_icons=true&theme=merko" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolix&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolix&langs_count=12&hide=css&layout=compact" />
+
+
+# Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
