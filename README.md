@@ -1,6 +1,8 @@
 # Alberto Lazo
 
-**`Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. Curious, creative, builder, problem solver, driven, disciplined, focused.`**
+**`Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. 
+
+Curious, creative, builder, problem solver, driven, disciplined, focused.`**
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=betolix&show_icons=true&theme=merko" />
 
