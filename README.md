@@ -1,15 +1,31 @@
 # Alberto Lazo
 
-**`Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. 
+Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. 
 
-Curious, creative, builder, problem solver, driven, disciplined, focused.`**
+Curious, creative, builder, problem solver, driven, disciplined, focused.
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=betolix&show_icons=true&theme=merko" />
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolix&langs_count=12&hide=css&layout=compact" />
 
 
+# Connect with me
+<div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/FFFFFF" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/facebook/FFFFFF" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/FFFFFF" /> 
+</div>
+
+
+
+
 # Languages
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+</a>
+
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
