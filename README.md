@@ -22,7 +22,11 @@ Curious, creative, builder, problem solver, driven, disciplined, focused.
      
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img  alt="C" height="50px" style="padding-right:10px; fill:44AEFB;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+</a>
+     
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 </a>
           
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -63,9 +67,7 @@ Curious, creative, builder, problem solver, driven, disciplined, focused.
 
 
 
-     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
+     
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
