@@ -1,13 +1,35 @@
-# Alberto Lazo
+<!-- Begin First Section -->
+<h1> Alberto Lazo </h1>
 
+<p align:"center">
 Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. 
 
 Curious, creative, builder, problem solver, driven, disciplined, focused.
+</p>
+<!-- End First Section -->
+
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=betolix&show_icons=true&theme=merko" />
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betolix&langs_count=12&hide=css&layout=compact" />
 
+<!-- Begin Second Section -->
+
+<!-- Languages and Tools -->
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+
+<div align="center">
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> 
+      
+      
+      
+
+</div>
+
+
+
+<!-- End Second Section -->
 
 # Connect with me
 <div>
@@ -21,9 +43,6 @@ Curious, creative, builder, problem solver, driven, disciplined, focused.
 
 # Languages
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-</a>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
