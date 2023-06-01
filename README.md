@@ -25,6 +25,10 @@ Curious, creative, builder, problem solver, driven, disciplined, focused.
 <img  alt="C" height="50px" style="padding-right:10px; fill:44AEFB;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </a>
      
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img  alt="C" height="70px" style="padding-right:10px; fill:44AEFB;" src="./c-plus-plus-us.svg"/>
+</a>
+     
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 </a>
