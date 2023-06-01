@@ -69,8 +69,12 @@ Curious, creative, builder, problem solver, driven, disciplined, focused.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </a>
+    
      
-
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+</a>
+     
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 </a>
