@@ -20,7 +20,7 @@
 - blix@h3llo.io
 - AlbertoLAzoB@gmail.com
 
-👀 I’m interested in 
+👀 I’m interested in:
  
 - CleanCode, Software crafting, SOLID, DRY, YAGNI 
 - Android: Presentation patterns (MVC, MVVM, MVI). 
