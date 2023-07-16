@@ -22,7 +22,7 @@
 
 👀 I’m interested in:
  
-- CleanCode, Software crafting, SOLID, DRY, YAGNI 
+- CleanCode, Software crafting, DRY, YAGNI, SOLID.  
 - Android: Presentation patterns (MVC, MVVM, MVI). 
 -     Activities, fragments, JetPack Compose, lifecycle management, Livedata, flow, shared flow, state flow, viewModel, repository pattern,  room (sqlite, DAO), remote data sources,  sensors, json, geojson, coroutines, retrofit, web services, Dependency Injection (Dagger, HILT), Testing, Geolocation: QGIS, GeoJson
 
