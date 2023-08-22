@@ -1,7 +1,7 @@
 <h1 align="center">Alberto Lazo</h1>
 <h3 align="center">Android Developer - Software Engineer - Claims Specialist | C++, Java, Kotlin, Python | Node, Express, PostgreSQL, REST, FreeBSD, UNIX, Linux. Curious, creative, builder, problem solver, driven, disciplined, focused.</h3>
 
-![Android Developer - Software Engineer - Claims Specialist](https://github.com/betolix/betolix/edit/main/README.md#:~:text=plus%2Dplus.png-,hdr_banner,-.jpeg)
+![Android Developer - Software Engineer - Claims Specialist](https://github.com/betolix/betolix/blob/main/hdr_banner.jpeg?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betolix&label=Profile%20views&color=0e75b6&style=flat" alt="betolix" /> </p>
 
