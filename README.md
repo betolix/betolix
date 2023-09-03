@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/betolix" target="blank"><img src="https://img.shields.io/twitter/follow/betolix?logo=twitter&style=for-the-badge" alt="betolix" /></a> </p>
 
-🔭 I’m currently working on **AI-Based Insurance Claim Service Stream / Refactoring a Geographical Datat Survey Android App**
+🔭 I’m currently working on **AI-Based Insurance Claim Service Stream / Refactoring a Geographical Data Survey Android App**
 
 🌱 I’m currently learning **Cloud Infrastructure and Microservices**
 
