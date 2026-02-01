@@ -14,6 +14,10 @@
 
 👯 I’m looking to collaborate on **Opensource Projects - Geographical data collection**
 
+### :zap: Actividad reciente 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 
 📫 How to reach me:
 - betolix@gmail.com
